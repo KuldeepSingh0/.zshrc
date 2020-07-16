@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
-[![Build Status](https://travis-ci.org/bhilburn/powerlevel9k.svg?branch=master)
+[![Build Status](https://travis-ci.org/bhilburn/powerlevel9k.svg?branch=master)]
 
 
-[![Follow @ohmyzsh](https://twitter.com/Switch_013)
+[![Follow @ohmyzsh](https://img.shields.io/twitter/follow/ohmyzsh?label=Follow+@ohmyzsh&style=flat)](https://twitter.com/Switch_013)
