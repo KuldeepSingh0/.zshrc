@@ -10,4 +10,4 @@
 
 # Windows Terminal
 
-![](https://github.com/KuldeepSingh0/.zshrc/blob/master/shell.jpg?raw=true)
+![](https://github.com/KuldeepSingh0/.zshrc/blob/master/shell.png?raw=true)
