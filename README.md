@@ -6,7 +6,8 @@
 
 # Powerlevel9k 
 
-![](https://raw.githubusercontent.com/bhilburn/powerlevel9k-logo/master/logo-banner.png)
+e.g. 
+ ![](https://raw.githubusercontent.com/bhilburn/powerlevel9k-logo/master/logo-banner.png)
 
 # Windows Terminal
 
