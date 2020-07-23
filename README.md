@@ -6,7 +6,6 @@
 
 # Powerlevel9k 
 
-e.g. 
  ![](https://raw.githubusercontent.com/bhilburn/powerlevel9k-logo/master/logo-banner.png)
 
 # Windows Terminal
